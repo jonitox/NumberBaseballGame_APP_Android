@@ -12,7 +12,7 @@ language - Java
 # Folder Description
 >- app\src\main\java\com\example\jooseok:   [Activity Java files](https://github.com/jonitox/NumberBaseballGame_AndroidAPP/tree/main/app/src/main/java/com/example/jooseok/project1)<BR>
 >- app\src\main\res\layout:   [Layout xml files](https://github.com/jonitox/NumberBaseballGame_AndroidAPP/tree/main/app/src/main/res/layout)<BR>
->- app/src/main/ : [Mainfest file](https://github.com/haewon13/AgingAPP/blob/master/app/src/main/AndroidManifest.xml)<BR> 
+>- app/src/main/ : [Mainfest file](https://github.com/jonitox/NumberBaseballGame_AndroidAPP/blob/main/app/src/main/AndroidManifest.xml)<BR> 
 >- 시연영상:  [Demo plays](https://github.com/jonitox/NumberBaseballGame_AndroidAPP/tree/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)<BR>
   
   
